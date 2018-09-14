@@ -18,5 +18,5 @@
 # You will also need to update the installer separately in:
 #  earth_enterprise/installer/
 # Format is 1 line (comment lines ignored):
-#   full version number: e.g., 3.1.2.3, 5.2.4, etc
-5.2.4
+#   full version number: e.g., 3.1.2.3, 5.2.5, etc
+5.2.5
